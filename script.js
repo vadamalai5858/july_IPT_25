@@ -1,2 +1,2 @@
 console.log("welcome");
-console.log("recievd );
+console.log("recievd");
