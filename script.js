@@ -1,2 +1,8 @@
 console.log("welcome");
-console.log();
+removeEventListenereq
+q
+removeEventListenerqg
+qe
+g
+qegqe
+g
