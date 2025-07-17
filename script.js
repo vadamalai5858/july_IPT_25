@@ -6,3 +6,6 @@ qe
 g
 qegqe
 g
+
+
+console.log(newly added);
