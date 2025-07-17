@@ -9,3 +9,4 @@ g
 
 
 console.log(newly added);
+console.log(pull mesaage);
